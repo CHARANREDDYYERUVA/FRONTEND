@@ -1,0 +1,14 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+.listing {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.shortlisted {
+  background-color: #f0f8ff;
+}
